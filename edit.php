@@ -17,7 +17,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 mt-5">
-        <h1 class="text-center">PHP OOP CRUD TUTORIAL - EDIT RECORD</h1>
+        <h1 class="text-center">Data Mahasiswa</h1>
         <hr style="height: 1px;color: black;background-color: black;">
       </div>
     </div>
